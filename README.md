@@ -9,3 +9,4 @@
  - run: ``` python flathunt.py ```
 
 The script checks every 10 mins for new flats and sends telegram msg if new flats are found
+The script was designed with the german websites. Depending on your language / changes in website design you might need to change the regular expressions used to filter links
