@@ -1,5 +1,5 @@
 ## Insall:
-- ``` pip install -r requirements.txt ```
+- run: ``` pip install -r requirements.txt ``` to install required packages
 - install google chrome
 - download chromedriver for your chrome version from: https://chromedriver.chromium.org and copy chromedriver to this directory
 
