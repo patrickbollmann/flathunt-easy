@@ -1,0 +1,4 @@
+requests
+telegram-send
+beautifulsoup4
+selenium

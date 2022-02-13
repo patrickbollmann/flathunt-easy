@@ -1,2 +1,11 @@
-# flathunt-easy
- Easy python script to find flats from ebay-kleinanzeigen, immowelt, immonet, wg-gesucht
+## Insall:
+- ``` pip install -r requirements.txt ```
+- install google chrome
+- download chromedriver for your chrome version from: https://chromedriver.chromium.org and copy chromedriver to this directory
+
+## usage
+ - setup telegram-send with your bot (instructions: https://pypi.org/project/telegram-send/)
+ - fill the urls in the script with your search urls
+ - run: ``` python flathunt.py ```
+
+The script checks every 10 mins for new flats and sends telegram msg if new flats are found
